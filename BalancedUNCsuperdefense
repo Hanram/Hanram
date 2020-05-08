@@ -5,7 +5,6 @@ Big Ten,East,West,,,,,,,
 Big 12,Sheriff,Outlaw,,,,,,,
 Pac 12,North,South,,,,,,,
 AAC,East,West,,,,,,,
-
 # Team format:,Conference,Division,Name,Abbr,Prestige,Rival,,,
 # SEC
 TEAM,SEC,West,Alabama,ALA,95,TEN,,,
@@ -97,7 +96,6 @@ TEAM,AAC,East,Troy,TROY,55,APP,,,
 TEAM,AAC,East,Temple,TEM,45,TLSA,,,
 TEAM,AAC,East,East Carolina,ECU,45,TULN,,,
 TEAM,AAC,East,Army,ARMY,55,NAVY,,,
-
 # Coaches
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme
 COACH,ALA,Nick Saban,40,95,95,95,95,Balanced,Balanced
@@ -181,8 +179,7 @@ COACH,WSU,Mike Leach,40,95,70,80,85,Air Raid,Aggressive
 COACH,WVU,Dana Holgorsen,40,75,75,75,75,Pro Style,Conservative
 COACH,WIS,Paul Chryst,40,85,85,85,85,Smashmouth,Balanced
 COACH,WYO,Craig Bohl,40,65,65,65,65,Pro Style,Conservative
-
-# Players
+# Players,,,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,
 PLAYER,ALA,OL,Jonah Williams,Jr,73,295,7,,
 PLAYER,ALA,TE,Miller Forristall,So,72,240,4,,
